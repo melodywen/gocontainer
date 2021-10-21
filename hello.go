@@ -1,4 +1,4 @@
-package go_c
+package gocontainer
 
 import "fmt"
 

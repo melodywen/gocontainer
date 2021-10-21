@@ -1,3 +1,3 @@
-module goc
+module gocontainer
 
 go 1.17
